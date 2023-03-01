@@ -1,0 +1,10 @@
+Agregar librerias
+
+pip install flask
+pip install pymysql
+pip install autopep8
+
+pip install pylint
+
+
+importar script de base de datos MySQL
